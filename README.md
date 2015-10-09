@@ -38,6 +38,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
 | [MasterCard Masters of Code: St. Louis](http://mastersofcode.com/event/st-louis-missouri-october-10-11-2015/) | St. Louis, MO | 10.10 - 10.11 |
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
+| [Facebook Seattle: LGBTQA Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-lgbtqa-student-hackathon-tickets-18511132295) | Seattle, WA | 10.16 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
 | [GSA Digital Innovation Hackathon](http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
